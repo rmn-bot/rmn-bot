@@ -4,7 +4,7 @@ Halo, saya Ramon.RA (juga dikenal sebagai icarimonsa_ra di media sosial).
 Saya adalah pelajar tingkat akhir asal Sumatera Selatan, Indonesia yang memiliki minat besar dalam teknologi, perkembangan digital, konten visual, serta pemantauan informasi ekonomi global.
 
 🌐 Website Portofolio:
-https://rmn-bot.github.io/Ramon-RA/
+https://rmn-bot.github.io/Ramon-RA/home.html
 
 ## Tentang Ramon.RA
 Ramon RA adalah individu yang aktif mengikuti perkembangan teknologi modern dan informasi global agar tidak tertinggal di era digital. Saya mengembangkan projek digital sederhana serta membangun personal branding melalui platform online seperti GitHub dan website portofolio pribadi.
@@ -27,7 +27,7 @@ Teknologi • Digital Project • Konten Visual • Crypto • Trading • Ekono
 Nama: Ramon.RA  
 Nama Online / Username: icarimonsa_ra  
 GitHub: https://github.com/rmn-bot  
-Website: https://rmn-bot.github.io/Ramon-RA/
+Website: https://rmn-bot.github.io/Ramon-RA/home.html
 
 ## Tujuan
 Terus belajar dan berkembang di era digital dengan memanfaatkan teknologi, informasi global, serta kreativitas visual untuk masa depan karier.
