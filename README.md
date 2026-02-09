@@ -1,4 +1,4 @@
-# Ramon RA | icarimonsa_ra
+# Ramon.RA | icarimonsa_ra
 
 Halo, saya Ramon.RA (juga dikenal sebagai icarimonsa_ra di media sosial).  
 Saya adalah pelajar tingkat akhir asal Sumatera Selatan, Indonesia yang memiliki minat besar dalam teknologi, perkembangan digital, konten visual, serta pemantauan informasi ekonomi global.
